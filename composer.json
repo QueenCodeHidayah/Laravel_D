@@ -65,7 +65,8 @@
             "php-http/discovery": true
         },
         "platform": {
-            "ext-gd": "8.2.32"
+            "ext-gd": "8.2.32",
+            "ext-zip": "8.2.32"
         }
     },
     "minimum-stability": "stable",
